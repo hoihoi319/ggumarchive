@@ -1,0 +1,376 @@
+{
+  "v": 1,
+  "statuses": [
+    "구상",
+    "기획",
+    "제작",
+    "연재",
+    "완료"
+  ],
+  "projects": [
+    {
+      "id": "running-duck",
+      "title": "러닝덕",
+      "cat": "game",
+      "status": "제작",
+      "icon": 0,
+      "one": "Unity 6로 만드는 오토러너 게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "arc-zero",
+      "title": "아크 제로",
+      "cat": "game",
+      "status": "기획",
+      "icon": 0,
+      "one": "Godot 4로 만드는 서사형 SF 게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "cozy-colony",
+      "title": "코지 콜로니 심",
+      "cat": "game",
+      "status": "기획",
+      "icon": 0,
+      "one": "싸움 없이 평화롭게 가꾸는 정착지 시뮬레이션.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "daily-autobattler",
+      "title": "일상 오토배틀러",
+      "cat": "game",
+      "status": "기획",
+      "icon": 5,
+      "one": "일상을 테마로 한 오토배틀러.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "faction-cards",
+      "title": "4종족 카드게임",
+      "cat": "game",
+      "status": "기획",
+      "icon": 6,
+      "one": "네 종족이 맞붙는 카드 게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "just-scroll",
+      "title": "저스트스크롤",
+      "cat": "game",
+      "status": "기획",
+      "icon": 0,
+      "one": "스크롤할 때마다 새 미니게임이 나오는 스마트폰 게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "machine-elements",
+      "title": "기계요소 조립 게임",
+      "cat": "game",
+      "status": "구상",
+      "icon": 0,
+      "one": "멸망 후 세계에서 기계를 조립해 농사짓는 샌드박스.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "golden-hour",
+      "title": "골든 아워",
+      "cat": "game",
+      "status": "기획",
+      "icon": 5,
+      "one": "회전 원판과 자석낚시를 합친 보드게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "magic-teacher-game",
+      "title": "마법교사 게임",
+      "cat": "game",
+      "status": "기획",
+      "icon": 0,
+      "one": "웹소설 세계관을 바탕으로 한 PC 게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "our-promise",
+      "title": "우리의 약속",
+      "cat": "game",
+      "status": "구상",
+      "icon": 10,
+      "one": "여행과 모험의 재미에만 집중한 로드 트립 게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "magic-teacher",
+      "title": "공립학교 마법교사 1년차입니다",
+      "cat": "story",
+      "status": "기획",
+      "icon": 1,
+      "one": "신규 마법교사의 첫 1년을 그린 웹소설.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "national-magic-school",
+      "title": "국립마법학교",
+      "cat": "story",
+      "status": "연재",
+      "icon": 1,
+      "one": "눈물이 마력이 되는 마법학교 입학 이야기.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "no-afterlife",
+      "title": "사후세계는 없다",
+      "cat": "story",
+      "status": "기획",
+      "icon": 1,
+      "one": "3부로 구성한 장편 소설.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "angel",
+      "title": "천사",
+      "cat": "story",
+      "status": "기획",
+      "icon": 4,
+      "one": "세 인물이 교차하는 우주 SF 옴니버스.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "demon-savior",
+      "title": "악마가 되어 세상을 구하는건 꽤나 힘듭니다",
+      "cat": "story",
+      "status": "기획",
+      "icon": 1,
+      "one": "악마가 되어 버린 주인공의 웹소설.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "prophet-variable",
+      "title": "예언자와 변수의 충돌",
+      "cat": "story",
+      "status": "구상",
+      "icon": 1,
+      "one": "예언자이자 변수인 주인공의 이야기.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "dawn-girl",
+      "title": "새벽을 뽑는 소녀",
+      "cat": "story",
+      "status": "기획",
+      "icon": 1,
+      "one": "AI로 그리는 웹툰.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "malang-school",
+      "title": "말랑스쿨",
+      "cat": "edu",
+      "status": "기획",
+      "icon": 2,
+      "one": "수업을 게임 원정으로 바꾸는 서비스.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "hanghae",
+      "title": "항해",
+      "cat": "edu",
+      "status": "제작",
+      "icon": 2,
+      "one": "고교학점제 과목 선택을 돕는 AI 플랫폼.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "aravollaeng",
+      "title": "아라볼랭",
+      "cat": "edu",
+      "status": "기획",
+      "icon": 8,
+      "one": "외계인에게 개념을 설명하며 복습하는 서비스.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "ras-passport",
+      "title": "RAS 여권",
+      "cat": "edu",
+      "status": "기획",
+      "icon": 6,
+      "one": "독서·예술·스포츠 활동을 도장으로 모으는 서비스.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "talent-matching",
+      "title": "인재상 매칭",
+      "cat": "edu",
+      "status": "기획",
+      "icon": 2,
+      "one": "대학 인재상과 고교생을 잇는 서비스.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "robot-village",
+      "title": "로봇 공방 마을",
+      "cat": "lab",
+      "status": "기획",
+      "icon": 3,
+      "one": "일하는 AI 에이전트를 로봇 마을로 보여 주는 실험.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "staffroom-agents",
+      "title": "교무실 에이전트",
+      "cat": "lab",
+      "status": "기획",
+      "icon": 3,
+      "one": "학교 업무를 나눠 맡는 멀티 에이전트 실험.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    }
+  ],
+  "about": {
+    "intro": "중학교에서 기술·가정을 가르치는 꿈고래예요. 수업이 끝나면 게임과 이야기, 수업 도구를 만들어요.",
+    "contact": ""
+  }
+}

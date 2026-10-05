@@ -1,0 +1,6 @@
+{
+  "name": "ggumgorae-archive",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
