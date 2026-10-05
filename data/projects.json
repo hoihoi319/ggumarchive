@@ -9,87 +9,42 @@
   ],
   "projects": [
     {
-      "id": "running-duck",
-      "title": "러닝덕",
-      "cat": "game",
-      "status": "제작",
-      "icon": 0,
-      "one": "Unity 6로 만드는 오토러너 게임.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
-      "id": "arc-zero",
-      "title": "아크 제로",
-      "cat": "game",
-      "status": "기획",
-      "icon": 0,
-      "one": "Godot 4로 만드는 서사형 SF 게임.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
-      "id": "cozy-colony",
-      "title": "코지 콜로니 심",
-      "cat": "game",
-      "status": "기획",
-      "icon": 0,
-      "one": "싸움 없이 평화롭게 가꾸는 정착지 시뮬레이션.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
-      "id": "daily-autobattler",
-      "title": "일상 오토배틀러",
-      "cat": "game",
-      "status": "기획",
-      "icon": 5,
-      "one": "일상을 테마로 한 오토배틀러.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
-      "id": "faction-cards",
-      "title": "4종족 카드게임",
-      "cat": "game",
-      "status": "기획",
-      "icon": 6,
-      "one": "네 종족이 맞붙는 카드 게임.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
       "id": "just-scroll",
       "title": "저스트스크롤",
       "cat": "game",
-      "status": "기획",
+      "status": "제작",
       "icon": 0,
       "one": "스크롤할 때마다 새 미니게임이 나오는 스마트폰 게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "our-promise",
+      "title": "우리의 약속",
+      "cat": "game",
+      "status": "제작",
+      "icon": 10,
+      "one": "여행과 모험의 재미에만 집중한 로드 트립 게임.",
+      "body": "",
+      "start": "",
+      "links": {
+        "play": "",
+        "doc": ""
+      },
+      "updates": []
+    },
+    {
+      "id": "magic-teacher-game",
+      "title": "마법교사 게임",
+      "cat": "game",
+      "status": "제작",
+      "icon": 0,
+      "one": "웹소설 세계관을 바탕으로 한 PC 게임.",
       "body": "",
       "start": "",
       "links": {
@@ -105,51 +60,6 @@
       "status": "구상",
       "icon": 0,
       "one": "멸망 후 세계에서 기계를 조립해 농사짓는 샌드박스.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
-      "id": "golden-hour",
-      "title": "골든 아워",
-      "cat": "game",
-      "status": "기획",
-      "icon": 5,
-      "one": "회전 원판과 자석낚시를 합친 보드게임.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
-      "id": "magic-teacher-game",
-      "title": "마법교사 게임",
-      "cat": "game",
-      "status": "기획",
-      "icon": 0,
-      "one": "웹소설 세계관을 바탕으로 한 PC 게임.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
-      "id": "our-promise",
-      "title": "우리의 약속",
-      "cat": "game",
-      "status": "구상",
-      "icon": 10,
-      "one": "여행과 모험의 재미에만 집중한 로드 트립 게임.",
       "body": "",
       "start": "",
       "links": {
@@ -204,42 +114,12 @@
       "updates": []
     },
     {
-      "id": "angel",
-      "title": "천사",
-      "cat": "story",
-      "status": "기획",
-      "icon": 4,
-      "one": "세 인물이 교차하는 우주 SF 옴니버스.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
       "id": "demon-savior",
       "title": "악마가 되어 세상을 구하는건 꽤나 힘듭니다",
       "cat": "story",
       "status": "기획",
       "icon": 1,
       "one": "악마가 되어 버린 주인공의 웹소설.",
-      "body": "",
-      "start": "",
-      "links": {
-        "play": "",
-        "doc": ""
-      },
-      "updates": []
-    },
-    {
-      "id": "prophet-variable",
-      "title": "예언자와 변수의 충돌",
-      "cat": "story",
-      "status": "구상",
-      "icon": 1,
-      "one": "예언자이자 변수인 주인공의 이야기.",
       "body": "",
       "start": "",
       "links": {
